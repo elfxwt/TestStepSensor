@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestStepSensor</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Test step sensor</string>
+
+    <string name="counting_title">Total Steps: %1$d</string>
+
+</resources>
